@@ -998,12 +998,12 @@
       ]
     },
     {
-      "id": "dshapi",
-      "name": "DSH API",
+      "id": "97wl",
+      "name": "97wl",
       "subtitle": "中转聚合站 · 国模分组 0.08x（官网价 8%），同一个 base URL 同时吃 OpenAI 与 Anthropic",
       "recommended": false,
-      "homeUrl": "https://api.dshapi.icu",
-      "signupUrl": "https://api.dshapi.icu/r/T8KiaeGU",
+      "homeUrl": "https://api.97wl.cc",
+      "signupUrl": "https://api.97wl.cc/r/T8KiaeGU",
       "docsUrl": null,
       "tags": [
         "中转站",
